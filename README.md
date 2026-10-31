@@ -184,6 +184,7 @@ Web application for health insurance analytics: upload CSV or XLSX datasets, vis
 | Type | Title | Issuer | Date |
 |---|---|---|---|
 | Certification | Data Science with Python — applied data science programme | Finlatics | Jan – Mar 2025 |
+| Participation | MISSION'26, school-level events | School of Computer Science and Engineering, VIT Chennai | Oct 2026 |
 | Participation | AI Odyssey Challenge, Quality Week 2024 | School of Computer Science and Engineering, VIT Chennai | Feb 2024 |
 
 <sub>Finlatics credential verifiable at <a href="https://finlatics.com/credentialscheck">finlatics.com/credentialscheck</a> (ID: DS-890243c344c8c8bc).</sub>
