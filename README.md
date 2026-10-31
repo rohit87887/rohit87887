@@ -39,6 +39,23 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 
 ---
 
+## Experience
+
+**Full Stack Developer Intern** — Inter-Ex Logistics Private Limited
+<br /><sub>June 2026 – July 2026</sub>
+
+**Data Scientist Intern** — Westmark Global FZ-LLC
+<br /><sub>May 2026 – June 2026</sub>
+
+**Data Analyst Intern** — Northgate Education Private Limited
+<br /><sub>May 2025 – July 2025</sub>
+
+<!-- Add one line under each role describing what you built or delivered —
+     e.g. the stack used, the dataset size, or the outcome. Recruiters read this
+     before anything else on the profile. -->
+
+---
+
 ## Technical Skills
 
 <table>
