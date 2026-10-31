@@ -163,14 +163,14 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 <tr>
 <td width="50%" valign="top">
 
-<h3>IAEP-Net — Road Crack Detection</h3>
-<p>Dual-encoder pavement crack segmentation pipeline (CNN + Swin Transformer) with an adaptive, quality-conditioned image-enhancement front end and automatic crack length, width and severity grading. Benchmarked against five baseline models.</p>
+<h3>IAEP — Road Crack Detection</h3>
+<p>Crack segmentation under shadows, glare and low light. An image-quality layer scores illumination, shadow, noise and contrast per image, then adapts the enhancement before segmentation — rather than applying one fixed filter to every frame. The detector, DualBranchCrackNet, fuses a ResNet-50 branch with a Swin-Tiny Transformer. Trained on 6,252 asphalt images and cross-tested on CrackForest, DeepCrack and SDNET-2018.</p>
 <p>
 <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ResNet--50-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="ResNet-50" />
 <img src="https://img.shields.io/badge/Swin%20Transformer-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Swin Transformer" />
-<img src="https://img.shields.io/badge/U--Net-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="U-Net" />
 </p>
-<p><a href="https://github.com/rohit87887/tarp-road-crack-detection"><b>Repository</b></a></p>
+<p><a href="https://github.com/rohit87887/road-crack-detection"><b>Repository</b></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -233,6 +233,22 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 </p>
 <p><a href="https://github.com/rohit87887/HealthCover-Predictor"><b>Repository</b></a></p>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Lean Six Sigma — DMAIC</h3>
+<p>DMAIC applied to service delivery at a Chennai consulting firm, targeting client-facing errors and the rework loop they create. 1,200 work units audited, causes ranked by Pareto and fishbone analysis. Modelled improvements cut defects 36.3% and lift process capability from 3.74&sigma; to 3.91&sigma;.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Python" />
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/DMAIC-0d1117?style=flat-square&logo=databricks&logoColor=58a6ff" alt="DMAIC" />
+</p>
+<p><a href="https://github.com/rohit87887/lean-six-sigma-dmaic-skarr"><b>Repository</b></a></p>
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
