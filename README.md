@@ -181,18 +181,12 @@ Web application for health insurance analytics: upload CSV or XLSX datasets, vis
 
 ## Achievements and Certifications
 
-<!-- Add only what you have actually earned, then delete the comment markers
-     around the table so it appears on your profile.
-
-| Type | Title | Issuer | Year |
+| Type | Title | Issuer | Date |
 |---|---|---|---|
-| Certification | Add certification name | Issuer | YYYY |
-| Achievement | Hackathon / competition / award | Organizer | YYYY |
-| Academic | Scholarship / rank / publication | Institution | YYYY |
+| Certification | Data Science with Python — applied data science programme | Finlatics | Jan – Mar 2025 |
+| Participation | AI Odyssey Challenge, Quality Week 2024 | School of Computer Science and Engineering, VIT Chennai | Feb 2024 |
 
--->
-
-Coming soon.
+<sub>Finlatics credential verifiable at <a href="https://finlatics.com/credentialscheck">finlatics.com/credentialscheck</a> (ID: DS-890243c344c8c8bc).</sub>
 
 ---
 
