@@ -10,9 +10,7 @@ I build intelligent, data-driven software: machine learning models, analytics pi
 
 <p>
   <a href="https://github.com/rohit87887"><img src="https://img.shields.io/badge/GitHub-rohit87887-161b22?style=flat-square&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
-  <!-- Fill in your LinkedIn, then delete the surrounding comment markers to show this badge.
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/rohit-s-684098292/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
   <!-- Fill in the email address you want public, then uncomment.
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
   -->
@@ -206,9 +204,9 @@ Web application for health insurance analytics: upload CSV or XLSX datasets, vis
 <div align="center">
 
 <a href="https://github.com/rohit87887"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/rohit-s-684098292/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
 
 <!-- Fill each URL in, then delete the comment markers around the badges you want shown.
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
 <a href="https://www.kaggle.com/YOUR-KAGGLE-ID"><img src="https://img.shields.io/badge/Kaggle-161b22?style=for-the-badge&logo=kaggle&logoColor=58a6ff" alt="Kaggle" /></a>
 <a href="https://leetcode.com/u/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=58a6ff" alt="LeetCode" /></a>
