@@ -138,13 +138,40 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 <tr>
 <td width="50%" valign="top">
 
-<h3>TradeChain AI</h3>
-<p>AI-powered trading journal and portfolio analyser with blockchain-verified performance records. Computes P&amp;L, win rate, profit factor, Sharpe ratio, max drawdown and equity curves. Trade-record hashes are real SHA-256 values computed in the browser; blockchain anchoring is simulated.</p>
+<h3>TCF-Net — Multilingual Fake News Detection</h3>
+<p>Explainable fake-news detector for English, Tamil, Hindi and code-mixed "Tanglish" / "Hinglish" text. Fuses three evidence streams — contextual semantics from MuRIL/DistilBERT, 22-D deception stylometry, and a simulated SIR propagation cascade — through a gated fusion layer, and answers <b>"Not Sure"</b> rather than guessing when confidence falls below a calibrated threshold. Flags hate speech in the same pass. 92.29% accuracy, 0.9886 ROC-AUC on its benchmark.</p>
 <p>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SHA--256-0d1117?style=flat-square&logo=hackthebox&logoColor=58a6ff" alt="SHA-256" />
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=58a6ff" alt="Transformers" />
+<img src="https://img.shields.io/badge/Gradio-0d1117?style=flat-square&logo=gradio&logoColor=58a6ff" alt="Gradio" />
 </p>
-<p><a href="https://github.com/rohit87887/tradechain-ai"><b>Repository</b></a> &nbsp;&middot;&nbsp; <a href="https://rohit87887.github.io/tradechain-ai/"><b>Live demo</b></a></p>
+<p><a href="https://github.com/rohit87887/TCF-Net"><b>Repository</b></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>IAEP — Road Crack Detection</h3>
+<p>Crack segmentation under shadows, glare and low light. An image-quality layer scores illumination, shadow, noise and contrast per image, then adapts the enhancement before segmentation — rather than applying one fixed filter to every frame. The detector, DualBranchCrackNet, fuses a ResNet-50 branch with a Swin-Tiny Transformer. Trained on 6,252 asphalt images and cross-tested on CrackForest, DeepCrack and SDNET-2018.</p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff" alt="PyTorch" />
+<img src="https://img.shields.io/badge/ResNet--50-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="ResNet-50" />
+<img src="https://img.shields.io/badge/Swin%20Transformer-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Swin Transformer" />
+</p>
+<p><a href="https://github.com/rohit87887/road-crack-detection"><b>Repository</b></a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>AI Video Fire Detection</h3>
+<p>FireNet-CNN with image segmentation that analyses video frame by frame, drawing live bounding boxes with confidence scores, raising early smoke warnings, and returning a timeline of exactly when fire appears.</p>
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=58a6ff" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=58a6ff" alt="OpenCV" />
+<img src="https://img.shields.io/badge/CNN-0d1117?style=flat-square&logo=keras&logoColor=58a6ff" alt="CNN" />
+</p>
+<p><a href="https://github.com/rohit87887/video-fire-detection"><b>Repository</b></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -163,30 +190,15 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 <tr>
 <td width="50%" valign="top">
 
-<h3>IAEP — Road Crack Detection</h3>
-<p>Crack segmentation under shadows, glare and low light. An image-quality layer scores illumination, shadow, noise and contrast per image, then adapts the enhancement before segmentation — rather than applying one fixed filter to every frame. The detector, DualBranchCrackNet, fuses a ResNet-50 branch with a Swin-Tiny Transformer. Trained on 6,252 asphalt images and cross-tested on CrackForest, DeepCrack and SDNET-2018.</p>
+<h3>TradeChain AI</h3>
+<p>AI-powered trading journal and portfolio analyser with blockchain-verified performance records. Computes P&amp;L, win rate, profit factor, Sharpe ratio, max drawdown and equity curves. Trade-record hashes are real SHA-256 values computed in the browser; blockchain anchoring is simulated.</p>
 <p>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff" alt="PyTorch" />
-<img src="https://img.shields.io/badge/ResNet--50-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="ResNet-50" />
-<img src="https://img.shields.io/badge/Swin%20Transformer-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Swin Transformer" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SHA--256-0d1117?style=flat-square&logo=hackthebox&logoColor=58a6ff" alt="SHA-256" />
 </p>
-<p><a href="https://github.com/rohit87887/road-crack-detection"><b>Repository</b></a></p>
+<p><a href="https://github.com/rohit87887/tradechain-ai"><b>Repository</b></a> &nbsp;&middot;&nbsp; <a href="https://rohit87887.github.io/tradechain-ai/"><b>Live demo</b></a></p>
 
 </td>
-<td width="50%" valign="top">
-
-<h3>AI Video Fire Detection</h3>
-<p>FireNet-CNN with image segmentation that analyses video frame by frame, drawing live bounding boxes with confidence scores, raising early smoke warnings, and returning a timeline of exactly when fire appears.</p>
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=58a6ff" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=58a6ff" alt="OpenCV" />
-<img src="https://img.shields.io/badge/CNN-0d1117?style=flat-square&logo=keras&logoColor=58a6ff" alt="CNN" />
-</p>
-<p><a href="https://github.com/rohit87887/video-fire-detection"><b>Repository</b></a></p>
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <h3>IndiaBites Recommender</h3>
@@ -198,6 +210,8 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 <p><a href="https://github.com/rohit87887/IndiaBites-Hybrid-Restaurant-Recommender"><b>Repository</b></a></p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>DCT Blind Image Watermarking</h3>
@@ -210,6 +224,18 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 <p><a href="https://github.com/rohit87887/DCT-Hessenberg-SVD-Watermark"><b>Repository</b></a></p>
 
 </td>
+<td width="50%" valign="top">
+
+<h3>Lean Six Sigma — DMAIC</h3>
+<p>DMAIC applied to service delivery at a Chennai consulting firm, targeting client-facing errors and the rework loop they create. 1,200 work units audited, causes ranked by Pareto and fishbone analysis. Modelled improvements cut defects 36.3% and lift process capability from 3.74&sigma; to 3.91&sigma;.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Python" />
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/DMAIC-0d1117?style=flat-square&logo=databricks&logoColor=58a6ff" alt="DMAIC" />
+</p>
+<p><a href="https://github.com/rohit87887/lean-six-sigma-dmaic-skarr"><b>Repository</b></a></p>
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -218,7 +244,7 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 <p>Java encryption system that binds decryption to a specific network environment. Messages are AES-encrypted, the AES key is RSA-wrapped, and a Wi-Fi fingerprint is tied to the payload, so a message decrypts only from the intended network.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff" alt="Java" />
-<img src="https://img.shields.io/badge/AES%20%2F%20RSA-0d1117?style=flat-square&logo=letsencrypt&logoColor=58a6ff" alt="AES / RSA" />
+<img src="https://img.shields.io/badge/AES%20/%20RSA-0d1117?style=flat-square&logo=letsencrypt&logoColor=58a6ff" alt="AES / RSA" />
 </p>
 <p><a href="https://github.com/rohit87887/Network-Restricted-Decryption"><b>Repository</b></a></p>
 
@@ -233,22 +259,6 @@ I am an **Integrated M.Tech student in Business Analytics with Computer Science 
 </p>
 <p><a href="https://github.com/rohit87887/HealthCover-Predictor"><b>Repository</b></a></p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>Lean Six Sigma — DMAIC</h3>
-<p>DMAIC applied to service delivery at a Chennai consulting firm, targeting client-facing errors and the rework loop they create. 1,200 work units audited, causes ranked by Pareto and fishbone analysis. Modelled improvements cut defects 36.3% and lift process capability from 3.74&sigma; to 3.91&sigma;.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Python" />
-<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/DMAIC-0d1117?style=flat-square&logo=databricks&logoColor=58a6ff" alt="DMAIC" />
-</p>
-<p><a href="https://github.com/rohit87887/lean-six-sigma-dmaic-skarr"><b>Repository</b></a></p>
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
